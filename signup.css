@@ -1,0 +1,41 @@
+body{
+background: #aaa;
+
+}
+form{
+	width:50%;
+	align-self: center; 
+	margin: auto;
+	padding: 20px;
+
+}
+h1{
+	text-align: center;
+}
+   .name{
+   	display: flex;
+   	padding: 10px;
+   	margin: 20px;
+   }
+   .fname{
+display: flex;
+   	padding: 10px;
+   	margin: 20px;
+   }
+   .lname
+   {
+display: flex;
+   	padding: 10px;
+   	margin: 20px;
+   }
+   .email{
+display: flex;
+   	padding: 10px;
+   	margin: 20px;
+   }
+    .password{
+   	display: flex;
+   	padding: 10px;
+   	margin: 20px;
+   }
+   
